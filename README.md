@@ -1,4 +1,4 @@
-See here formy series on Medium which dives into the data in this repository and provides more context on methodology: 
+See here for my series on Medium which dives into the data in this repository and provides more context on methodology: 
 
 Below are the results from my testing which you may use as a template in your own testing.
 
