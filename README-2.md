@@ -18,5 +18,5 @@ Below are the results from my evaluation of "other factors" not assessed in part
 <table><tbody><tr><th>Section</th><th>Significance</th><th>Enterprise EDR Solution 1</th><th>Enterprise EDR Solution 2</th></tr><tr><td>Integrations</td><td>Depends on the integration but often allows for enrichment, log forwarding, automation, etc</td><td>100%</td><td>100%</td></tr></tbody></table>
 
 **Section 6: Day-to-day Usability**
-<table><tbody><tr><th>Section</th><th>Significance</th><th>Enterprise EDR Solution 1</th><th>Enterprise EDR Solution 2</th></tr><tr><td>Product UX</td><td>Ease of use for the tool as a whole</td><td>0.95</td><td>75%</td></tr></tbody></table>
+<table><tbody><tr><th>Section</th><th>Significance</th><th>Enterprise EDR Solution 1</th><th>Enterprise EDR Solution 2</th></tr><tr><td>Product UX</td><td>Ease of use for the tool as a whole</td><td>95%</td><td>75%</td></tr></tbody></table>
 
