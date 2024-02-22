@@ -1,4 +1,4 @@
-Read my series on Medium which dives into the data in this repository and provides more context, that README is for the second part of the series: 
+Read my series on Medium which dives into the data in this repository and provides more context, this README is for the second part of the series: 
 
 Below are the results from my evaluation of "other factors" not assessed in part 1.
 
