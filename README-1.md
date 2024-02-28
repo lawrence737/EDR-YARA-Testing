@@ -1,6 +1,6 @@
-Read my series on Medium which is based on the data in this repository, this README is for the first part of the series: 
+Read my series on Medium which is based on the data in this repository. This README is for the first part of the series: 
 
-Below are the results from my testing which you may use as a template in your own testing. Note that policy settings must also be set, you can view the recommendation for what policy settings to set, along with more detail on what we set in our testing, <a href="https://github.com/lawrence737/EDR-YARA-Testing/wiki/Policy-Settings">here</a>. 
+Below are the results from my testing which you may use as a template in your own testing. Note that policy settings must also be set. You can view the recommendation for what policy settings to set, along with more detail on what we set in our testing, <a href="https://github.com/lawrence737/EDR-YARA-Testing/wiki/Policy-Settings">here</a>. 
 
 For each test, I've given a write-up in the repo wiki and have linked the associated write-up for each step under "Steps to Replicate". **These steps dive deeper into the techincal results for each step and how to get there.**
 
