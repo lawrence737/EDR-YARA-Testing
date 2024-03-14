@@ -1,4 +1,4 @@
-Read my series on Medium which is based on the data in this repository. This README is for the second part of the series: 
+Read my series on Medium which is based on the data in this repository. This README is for the second part of the series: https://medium.com/@larrypdwyer/an-evaluation-template-for-enterprise-edr-and-yara-solutions-part-2-2-eddc15f94df0
 
 Below are the results from my evaluation of "other factors" not assessed in part 1.
 
